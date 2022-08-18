@@ -1,12 +1,12 @@
 # rosidl_core_runtime
 
-`rosidl_core_runtime` provides CMake functionality for finding and adding runtime dependencies for rosidl packages.
+Provides CMake functionality for finding and adding runtime dependencies for packages providing ROS message definitions.
 
 ## Features
 
-The *features* of this package consist entirely of serving as a gathering dependency for all runtime related dependencies of rosidl packages.
+The *features* of this package consist entirely of serving as a gathering place for all runtime related dependencies of ROS interface packages.
 These dependencies can be found in the [package.xml](package.xml).
-This helps reduce the boilerplate needed when developers create their own rosidl packages.
+This helps reduce the boilerplate needed when developers create their own ROS interface packages.
 
 ## Quality Declaration
 
