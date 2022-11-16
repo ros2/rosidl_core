@@ -4,9 +4,13 @@
   <name>rosidl_core_runtime</name>
   <version>0.1.0</version>
   <description>A configuration package defining runtime dependencies for core ROS interfaces.</description>
-  <maintainer email="jacob@openrobotics.org">Jacob Perron</maintainer>
+
+  <maintainer email="sloretz@openrobotics.org">Shane Loretz</maintainer>
+
   <license>Apache License 2.0</license>
+
   <author email="dthomas@osrfoundation.org">Dirk Thomas</author>
+  <author email="jacob@openrobotics.org">Jacob Perron</author>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
 
