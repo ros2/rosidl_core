@@ -2,8 +2,8 @@
 Changelog for package rosidl_core_runtime
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.1.1 (2023-02-13)
+------------------
 * [rolling] Update maintainers - 2022-11-07 (`#2 <https://github.com/ros2/rosidl_core/issues/2>`_)
 * Contributors: Audrow Nash
 
