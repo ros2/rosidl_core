@@ -2,6 +2,9 @@
 Changelog for package rosidl_core_generators
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.0 (2023-04-28)
+------------------
+
 0.1.1 (2023-02-13)
 ------------------
 * [rolling] Update maintainers - 2022-11-07 (`#2 <https://github.com/ros2/rosidl_core/issues/2>`_)
