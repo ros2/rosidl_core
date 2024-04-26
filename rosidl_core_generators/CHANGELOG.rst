@@ -2,6 +2,9 @@
 Changelog for package rosidl_core_generators
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 0.2.0 (2023-04-28)
 ------------------
 
