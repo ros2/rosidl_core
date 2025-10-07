@@ -2,6 +2,12 @@
 Changelog for package rosidl_core_generators
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.4.1 (2025-10-07)
+------------------
+* Revert "Revert "Added rosidl_generator_rs (`#7 <https://github.com/ros2/rosidl_core/issues/7>`_)" (`#8 <https://github.com/ros2/rosidl_core/issues/8>`_)" (`#9 <https://github.com/ros2/rosidl_core/issues/9>`_)
+* fix cmake deprecation (`#10 <https://github.com/ros2/rosidl_core/issues/10>`_)
+* Contributors: Esteve Fernandez, mosfet80
+
 0.4.0 (2025-04-25)
 ------------------
 
