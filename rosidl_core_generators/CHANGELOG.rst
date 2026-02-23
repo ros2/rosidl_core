@@ -2,6 +2,11 @@
 Changelog for package rosidl_core_generators
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.1 (2026-02-23)
+------------------
+* Added rosidl_generator_rs (Jazzy) (`#12 <https://github.com/ros2/rosidl_core/issues/12>`_)
+* Contributors: Esteve Fernandez
+
 0.2.0 (2023-04-28)
 ------------------
 
