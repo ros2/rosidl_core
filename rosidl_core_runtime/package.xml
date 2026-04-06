@@ -24,6 +24,7 @@
   <build_export_depend condition="$DISABLE_GROUPS_WORKAROUND != 1">rosidl_typesupport_introspection_c</build_export_depend>
   <build_export_depend condition="$DISABLE_GROUPS_WORKAROUND != 1">rosidl_typesupport_fastrtps_cpp</build_export_depend>
   <build_export_depend condition="$DISABLE_GROUPS_WORKAROUND != 1">rosidl_typesupport_introspection_cpp</build_export_depend>
+  <build_export_depend condition="$DISABLE_GROUPS_WORKAROUND != 1">rosidl_buffer_py</build_export_depend>
 
   <test_depend>ament_lint_auto</test_depend>
   <test_depend>ament_lint_common</test_depend>
