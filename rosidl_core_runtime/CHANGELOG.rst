@@ -2,6 +2,9 @@
 Changelog for package rosidl_core_runtime
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 0.4.2 (2026-04-09)
 ------------------
 * Add rosidl_buffer_py as build_export_depend with explicit group resolution (`#14 <https://github.com/ros2/rosidl_core/issues/14>`_)
